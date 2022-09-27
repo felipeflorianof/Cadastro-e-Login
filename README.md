@@ -1,4 +1,4 @@
 # Cadastro-e-Login
 
-- Cadastro e Login conectado ao banco de dados
+- Cadastro, Login e sessões de usuário conectado ao banco de dados
 - Feito em PHP 
