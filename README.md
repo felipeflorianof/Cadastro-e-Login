@@ -1,7 +1,7 @@
 # Cadastro e Login
 
 - it's a screen of login and registration fully connected to a database
-- Made in PHP and SGBD used: MySQL
+- Made in PHP and the SGBD used was MySQL
 
 
 
