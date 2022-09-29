@@ -1,6 +1,6 @@
-# Login and Registration
+# Sign Up and Log In Screen
 
-- it's a screen of login and registration fully connected to a database
+- it's basically a screen of Registration and Login fully connected to a database
 - Made in PHP and the SGBD used was MySQL
 
 
