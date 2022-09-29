@@ -1,4 +1,4 @@
-# Cadastro e Login
+# Login and Registration
 
 - it's a screen of login and registration fully connected to a database
 - Made in PHP and the SGBD used was MySQL
