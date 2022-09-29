@@ -3,8 +3,6 @@
 - it's basically a screen of Registration and Login fully connected to a database
 - Made in PHP and the SGBD used was MySQL
 
-
-
 ## ⚒️ Technology
 ### The following tools were used in the project
 
