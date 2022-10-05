@@ -9,7 +9,6 @@
 ![php](https://img.shields.io/badge/-php-45b8d8?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mySQL&logoColor=white)
 ![Html5](https://img.shields.io/badge/-Html5-db7092?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   
 
 ## Contact me
